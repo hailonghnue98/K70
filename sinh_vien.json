@@ -1,0 +1,39 @@
+{
+	"sinh_vien": [
+		{
+			"ma_sv": "695105001",
+			"ho_ten": "Nguyễn Văn Nam",
+			"email": "namnv@gmail.com",
+			"sdt": "0123456789",
+			"diem_thang_4": "3.2"
+		},
+		{
+			"ma_sv": "695105002",
+			"ho_ten": "Trần Trung Quân",
+			"email": "quantt@gmail.com",
+			"sdt": "0961323654",
+			"diem_thang_4": "2.8"
+		},
+		{
+			"ma_sv": "695105003",
+			"ho_ten": "Đặng Thị Linh",
+			"email": "linhdt@gmail.com",
+			"sdt": "0985453215",
+			"diem_thang_4": "3.5"
+		},
+		{
+			"ma_sv": "695105004",
+			"ho_ten": "Nguyễn Thành Nam",
+			"email": "namnt@gmail.com",
+			"sdt": "0885243215",
+			"diem_thang_4": "2.75"
+		},
+		{
+			"ma_sv": "695105005",
+			"ho_ten": "Trần Văn Cường",
+			"email": "cuongtv@gmail.com",
+			"sdt": "0785321654",
+			"diem_thang_4": "3.15"
+		}
+	]
+}
