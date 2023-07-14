@@ -1,0 +1,317 @@
+{
+	"bomon": {
+		"cnpm": [
+			{
+				"maGv": "gv001",
+				"hoTen": "PGS.TS Trần Đăng Hưng",
+				"chucVu": ["Trưởng khoa", "Giảng viên"],
+				"email": ["hungtd@hnue.edu.vn", "trandanghung@gmail.com"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hungtd5.jpg",
+				"chuyenMon": [
+					"Khám phá tri thức từ các mạng sinh học bằng các phương pháp học máy",
+					"Nghiên cứu phát triển phương pháp tính phát hiện gen gây bệnh từ dữ liệu y sinh",
+					"Khai phá dữ liệu và khám phá tri thức từ dữ liệu sinh học phân tử",
+					"Khai phá mạng hỗn tạp"
+				]
+			},
+			{
+				"maGv": "gv002",
+				"hoTen": "TS. Đặng Thành Trung",
+				"chucVu": ["Phó Trưởng khoa", "Giảng viên"],
+				"email": ["trungdt@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/trungdt2020.jpg",
+				"chuyenMon": [
+					"Xử lý ảnh: Phục hồi ảnh, đánh giá chất lượng ảnh",
+					"Công nghệ phần mềm",
+					"Phát triển ứng dụng trên nền tảng di động"
+				]
+			},
+			{
+				"maGv": "gv003",
+				"hoTen": "TS. Nguyễn Thị Thanh Huyền",
+				"chucVu": ["Trưởng bộ môn", "Giảng viên"],
+				"email": ["ntthuyen@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/huyenntt_100.jpg",
+				"chuyenMon": [
+					"Các phương pháp hình thức (Formal methods)",
+					"Kiểm chứng mô hình cho hệ thống đồng thời (model checking for concurrent systems)",
+					"Tính toán song song và phân tán (parallel and distributed computing)",
+					"Các thuật toán phát hiện phần mềm mã độc"
+				]
+			},
+			{
+				"maGv": "gv004",
+				"hoTen": "ThS. Nguyễn Thị Hạnh",
+				"chucVu": ["Giảng viên"],
+				"email": ["hanhit@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hanhnt2.jpg",
+				"chuyenMon": [
+					"Kiểm thử phần mềm tự động",
+					"Chuyển đổi mô hình"
+				]
+			},
+			{
+				"maGv": "gv022",
+				"hoTen": "CN. Trần Hải Long",
+				"chucVu": ["Giảng viên tạo nguồn"],
+				"email": ["longth@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/longth.png",
+				"chuyenMon": [
+					"HTMLOL",
+					"CSSGO",
+					"JAVALORANT"
+				]
+			},
+			{
+				"maGv": "gv023",
+				"hoTen": "CN. Vũ Thị Xuyến",
+				"chucVu": ["Giảng viên tạo nguồn"],
+				"email": ["xuyenvt@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/xuyenvt3.jpg",
+				"chuyenMon": [
+					"Lập trình web"
+				]
+			}
+		],
+		"khmt": [
+			{
+				"maGv": "gv005",
+				"hoTen": "TS. Đỗ Trung Kiên",
+				"chucVu": ["Phó Trưởng khoa", "Trưởng bộ môn", "Giảng viên"],
+				"email": ["kiendt@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/kiendt.jpg",
+				"chuyenMon": [
+					"Tối ưu hóa",
+					"Tính toán chính xác và gần đúng",
+					"Tính toán song song"
+				]
+			},
+			{
+				"maGv": "gv006",
+				"hoTen": "TS. Đặng Xuân Thọ",
+				"chucVu": ["Giảng viên"],
+				"email": ["thodx@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/thodx.jpg",
+				"chuyenMon": [
+					"Khai phá dữ liệu (Data mining)",
+					"Tin sinh học (Bioinformatics)",
+					"Học máy (Machine learning)",
+					"Phân lớp (Classification)",
+					"Phân cụm (Clustering)"
+				]
+			},
+			{
+				"maGv": "gv007",
+				"hoTen": "ThS. Phạm Thị Lan",
+				"chucVu": ["Giảng viên"],
+				"email": ["ptlan@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/lanpt.jpg",
+				"chuyenMon": [
+					"Thuật toán nâng cao",
+					"Khai phá tri thức",
+					"Lý thuyết mờ"
+				]
+			},
+			{
+				"maGv": "gv008",
+				"hoTen": "ThS. Nguyễn Thị Hồng",
+				"chucVu": ["Giảng viên"],
+				"email": ["nguyenhong@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hongnta2.jpg",
+				"chuyenMon": [
+					"Data mining: Bài toán phân lớp"
+				]
+			},
+			{
+				"maGv": "gv024",
+				"hoTen": "CN. Nguyễn Khắc Ân",
+				"chucVu": ["Giảng viên tạo nguồn"],
+				"email": ["annk@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/annk.jpg",
+				"chuyenMon": [
+					"Thuật toán nâng cao"
+				]
+			}
+		],
+		"httt": [
+			{
+				"maGv": "gv009",
+				"hoTen": "TS. Lê Thị Tú Kiên",
+				"chucVu": ["Trưởng bộ môn", "Giảng viên"],
+				"email": ["kienltt@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/kienltt3.jpg",
+				"chuyenMon": [
+					"Tin–Sinh học",
+					"Xử lý ngôn ngữ tự nhiên",
+					"Học máy"
+				]
+			},
+			{
+				"maGv": "gv010",
+				"hoTen": "PGS.TS. Phạm Thọ Hoàn",
+				"chucVu": ["Giám đốc Trung tâm Khoa học Tính toán", "Giảng viên"],
+				"email": ["hoanpt@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_phamthohoan.jpg",
+				"chuyenMon": [
+					"Ứng dụng web",
+					"Lập trình web",
+					"Trí tuệ nhân tạo",
+					"Đồ họa máy tính"
+				]
+			},
+			{
+				"maGv": "gv011",
+				"hoTen": "TS. Phạm Thị Anh Lê",
+				"chucVu": ["Giảng viên"],
+				"email": ["lepta@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/lepta2020.jpg",
+				"chuyenMon": [
+					"Cơ sở dữ liệu",
+					"Khai phá dữ liệu",
+					"Web ngữ nghĩa",
+					"Trí tuệ nhân tạo"
+				]
+			},
+			{
+				"maGv": "gv012",
+				"hoTen": "CN. Lê Xuân Hiền",
+				"chucVu": ["Giảng viên"],
+				"email": ["lexuanhien@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hienxl.jpg",
+				"chuyenMon": [
+					"Cơ sở dữ liệu",
+					"Lập trình web",
+					"Trí tuệ nhân tạo"
+				]
+			}
+		],
+		"mmt": [
+			{
+				"maGv": "gv014",
+				"hoTen": "TS. Nguyễn Thế Lộc",
+				"chucVu": ["Trưởng bộ môn", "Giảng viên"],
+				"email": ["locnt@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/locnt.jpg",
+				"chuyenMon": [
+					"Đồ họa máy tính",
+					"Mạng máy tính",
+					"Grid Computing",
+					"Cloud Computing"
+				]
+			},
+			{
+				"maGv": "gv015",
+				"hoTen": "ThS. Vũ Thái Giang",
+				"chucVu": ["Giảng viên"],
+				"email": ["giangvt@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_vuthaigiang.jpg",
+				"chuyenMon": [
+					"Mạng máy tính",
+					"Phương pháp giảng dạy"
+				]
+			},
+			{
+				"maGv": "gv016",
+				"hoTen": "ThS. Nguyễn Thị Quỳnh Hoa",
+				"chucVu": ["Giảng viên"],
+				"email": ["hoantq@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/Hoantq.jpg",
+				"chuyenMon": [
+					"Mạng máy tính",
+					"Kỹ thuật điện tử",
+					"Lập trình web"
+				]
+			},
+			{
+				"maGv": "gv025",
+				"hoTen": "CN. Đỗ Ba Chín",
+				"chucVu": ["Giảng viên tạo nguồn"],
+				"email": ["chindb@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/chindb2.jpg",
+				"chuyenMon": [
+					"Mạng máy tính",
+					"Kỹ thuật điện tử",
+					"Lập trình web"
+				]
+			}
+		],
+		"ppdh": [
+			{
+				"maGv": "gv017",
+				"hoTen": "TS. Nguyễn Chí Trung",
+				"chucVu": ["Trưởng bộ môn", "Giảng viên"],
+				"email": ["trungnc@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_nguyenchitrung.jpg",
+				"chuyenMon": [
+					"Phương pháp dạy học phát triển tư duy thuật toán",
+					"Các phương pháp dạy học tích cực",
+					"Phương pháp kiểm tra đánh giá trong thực nghiệm sư phạm",
+					"Hướng dẫn học và hướng dẫn dạy theo mô hình trường học mới VNEN"
+				]
+			},
+			{
+				"maGv": "gv018",
+				"hoTen": "TS. Bùi Minh Đức",
+				"chucVu": ["Giáo viên thực hành"],
+				"email": ["ducbm@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_buiminhduc.jpg",
+				"chuyenMon": [
+					"Xây dựng bộ câu hỏi trắc nghiệm trong giảng dạy tin học lớp 11",
+					"Ứng dụng ICT (Công nghệ thông tin và Truyền thông) trong dạy học hình học lớp 11"
+				]
+			},
+			{
+				"maGv": "gv019",
+				"hoTen": "ThS. Kiều Phương Thùy",
+				"chucVu": ["Giảng viên"],
+				"email": ["thuykp@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/thuykp2020.jpg",
+				"chuyenMon": [
+					"Phần mềm dạy học",
+					"Dạy học theo dự án",
+					"Dạy học theo định hướng phát triển năng lực"
+				]
+			},
+			{
+				"maGv": "gv020",
+				"hoTen": "ThS. Trần Thị Thu Bình",
+				"chucVu": ["Giáo viên thực hành"],
+				"email": ["tranbinh@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/t_tranthithubinh.jpg",
+				"chuyenMon": [
+					"Dạy học tương tác",
+					"Ứng dụng phần mềm tin học vào việc soạn bài giảng các môn học"
+				]
+			},
+			{
+				"maGv": "gv021",
+				"hoTen": "Ths. Nguyễn Thị Hồng",
+				"chucVu": ["Giảng viên"],
+				"email": ["nguyenthihong@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/hongntb.jpg",
+				"chuyenMon": [
+					"Dạy học tương tác",
+					"Lập trình Stem/Steam"
+				]
+			},
+			{
+				"maGv": "gv023",
+				"hoTen": "CN. Nguyễn Trung Khánh",
+				"chucVu": ["Giảng viên tạo nguồn"],
+				"email": ["khanhnt1312@hnue.edu.vn"],
+				"anhDaiDien": "http://fit.hnue.edu.vn/images/t_bomon_trungtam/khanhnt.jpg",
+				"chuyenMon": [
+					"HTMLOL",
+					"CSSGO",
+					"JAVALORANT"
+				]
+			}
+		]
+	},
+	"language": {
+		"lang1": "Python",
+		"lang2": "JavaScript",
+		"lang3": "C#",
+		"lang4": "Java"
+	}
+}
